@@ -44,8 +44,6 @@ cd resume_enhancer
 
 python3 -m venv .venv
 source .venv/bin/activate   # macOS/Linux
-# or on Windows PowerShell:
-# .\.venv\Scripts\activate
 
 3. Install the dependencies:
 
