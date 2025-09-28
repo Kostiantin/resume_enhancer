@@ -43,6 +43,7 @@ cd resume_enhancer
 2. Create and activate a virtual environment:
 
 python3 -m venv .venv
+
 source .venv/bin/activate   # macOS/Linux
 
 3. Install the dependencies:
